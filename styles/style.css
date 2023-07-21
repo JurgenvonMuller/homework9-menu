@@ -128,12 +128,6 @@ nav a {
   color: inherit;
   width: 20px;
 }
-
-.main-menu .fa, 
-.sub-menu .fa {
-  margin-left: 5px;
-  color: inherit;
-}
 /*Стилизация ссылок - собственно видимых названий 
 подменю 2-го и 3-го уровней*/
 .sub-menu li a {
